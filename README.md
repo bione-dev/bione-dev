@@ -1,5 +1,5 @@
 # 🚀 Sobre Mim:
-Olá, me chamo Gustavo Bione Martins, tenho 23 anos e estou me dedicando a aprender mais sobre Java no desenvolvimento backend. Tenho habilidades em resolução de problemas, trabalho em equipe e adaptação a novas situações. Estou em busca de oportunidades para entrar no mercado de trabalho.
+Olá, me chamo Gustavo Bione Martins, tenho 23 anos e estou me dedicando a aprender mais sobre Java no desenvolvimento backend. Tenho habilidades em resolução de problemas, trabalho em equipe e adaptação a novas situações. Estou em busca de oportunidades para entrar no mercado de TI.
 ## 🌐 Redes Sociais:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gusta.bione) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gustavo-bione-539ba1174/) 
 
