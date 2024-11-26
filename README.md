@@ -28,6 +28,8 @@ Sou um **Desenvolvedor Backend** apaixonado por tecnologia e sempre em busca de 
 ![JavaFX](https://img.shields.io/badge/JavaFX-%23FF8000.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=googlecloud&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ---
 
@@ -70,4 +72,3 @@ Sou um **Desenvolvedor Backend** apaixonado por tecnologia e sempre em busca de 
 ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=bione-dev&theme=tokyonight&hide_border=false&layout=compact)
 
 ---
-
