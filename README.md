@@ -34,30 +34,6 @@ Sou um **Desenvolvedor Backend** apaixonado por tecnologia e sempre em busca de 
 
 ---
 
-## 📂 Projetos:
-
-### [User Management API](https://github.com/bione-dev/User-Management-API)
-- API RESTful para gerenciamento de usuários com operações CRUD.  
-- **Tecnologias:** Java, Spring Boot, MongoDB, Postman, Git.
-
-### [Biblioteca de TCCs](https://github.com/bione-dev/TCCs)
-- Sistema para gerenciar trabalhos acadêmicos, com interface gráfica e autenticação.  
-- **Tecnologias:** JavaFX, MySQL, JDBC.
-
-### [Caixa Eletrônico](https://github.com/bione-dev/caixaeletronico)
-- Simulador de caixa eletrônico com funcionalidades de autenticação, depósitos e saques.  
-- **Tecnologias:** Java, Swing, JDBC, MySQL.
-
-### [Restaurante-Marmitas](https://github.com/bione-dev/Restaurante-Marmitas)
-- Sistema desktop para gerenciar pedidos e entregas de marmitas.  
-- **Tecnologias:** JavaFX, PostgreSQL, H2.
-
-### [Tradutor API](https://github.com/bione-dev/TranslateAPI)
-- Tradutor de textos em Java, integrado com Google Cloud Translation API.  
-- **Tecnologias:** Java Swing, Maven, Google Cloud API.
-
----
-
 ## 🌐 Redes Sociais:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gustavo-bione-539ba1174/)  
