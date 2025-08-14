@@ -1,51 +1,198 @@
----
+<!-- Banner -->
 
-# 👋 Olá, eu sou Gustavo Bione Martins!
+<p align="center">
 
-Sou um **Desenvolvedor Backend** apaixonado por tecnologia e sempre em busca de aprender algo novo. Atualmente, estou me dedicando ao **desenvolvimento backend com Java** e frameworks como **Spring Boot**. Acredito no poder de soluções bem projetadas e eficientes para resolver problemas reais. 
+&nbsp; <img src="./assets/gustavo-bione-banner.svg" alt="Gustavo Bione — Full Stack Developer" />
 
----
+</p>
 
-## 🚀 Sobre Mim:
 
-- 🎓 Graduando no 3º período de **Análise e Desenvolvimento de Sistemas** pelo **Unipê**.  
-- 💡 Focado em construir sistemas backend escaláveis e seguros utilizando **Java**.  
-- 📚 Apaixonado por aprender tecnologias como **Spring Boot**, **Hibernate**, e bancos de dados como **PostgreSQL** e **MySQL**.  
-- 🤝 Valorizo o **trabalho em equipe** e a **resolução de problemas** como habilidades essenciais na área de TI.  
-- 🌐 Experiência com **home office** e metodologias ágeis para entregar resultados com eficiência.
 
----
+<h1 align="center">Hey there, I’m Gustavo Bione</h1>
 
-![Java](https://img.shields.io/badge/Java-%23E34F26.svg?style=for-the-badge&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![Quarkus](https://img.shields.io/badge/Quarkus-%23581F61.svg?style=for-the-badge&logo=quarkus&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-%23423159.svg?style=for-the-badge&logo=hibernate&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![H2 Database](https://img.shields.io/badge/H2-Database-%23F37626.svg?style=for-the-badge&logo=h2&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![APIs RESTful](https://img.shields.io/badge/APIs%20RESTful-%23007FFF.svg?style=for-the-badge&logo=api&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=googlecloud&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+<p align="center">
+
+&nbsp; <b>Full Stack Developer</b> · Java, Spring Boot, Quarkus, Angular/TypeScript · AWS · Docker
+
+</p>
+
+
+
+<div align="center">
+
+&nbsp; <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="60" height="60" alt="sparkle"/>
+
+</div>
+
 
 
 ---
 
-## 🌐 Redes Sociais:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gustavo-bione-539ba1174/)  
-[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bione-dev)  
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/gusta.bione)
+
+\## ✨ About Me
+
+\- 🚀 Full Stack focado em apps seguras, performáticas e escaláveis.  
+
+\- 🧩 Curto arquitetura limpa, testes, observabilidade e DevOps.  
+
+\- 📚 Estudando \*\*Go\*\* \& \*\*Terraform\*\* pra reforçar fundamentos de plataforma.  
+
+\- ☕ Café + código = produtividade.
+
+
 
 ---
 
-## 📊 Estatísticas GitHub:
 
-![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=bione-dev&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
-![Streak GitHub](https://github-readme-streak-stats.herokuapp.com/?user=bione-dev&theme=tokyonight&hide_border=false)
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=bione-dev&theme=tokyonight&hide_border=false&layout=compact)
+
+\## 🧰 Main Stack
+
+<p align="center">
+
+&nbsp; <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white"/>
+
+&nbsp; <img src="https://img.shields.io/badge/Spring\_Boot-6DB33F?style=for-the-badge\&logo=springboot\&logoColor=white"/>
+
+&nbsp; <img src="https://img.shields.io/badge/Quarkus-4695EB?style=for-the-badge\&logo=quarkus\&logoColor=white"/>
+
+&nbsp; <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge\&logo=angular\&logoColor=white"/>
+
+&nbsp; <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white"/>
+
+&nbsp; <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white"/>
+
+&nbsp; <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge\&logo=mongodb\&logoColor=white"/>
+
+&nbsp; <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonaws\&logoColor=white"/>
+
+&nbsp; <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white"/>
+
+</p>
+
+
 
 ---
+
+
+
+\## 📚 Currently Learning
+
+<p align="center">
+
+&nbsp; <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge\&logo=go\&logoColor=white"/>
+
+&nbsp; <img src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge\&logo=terraform\&logoColor=white"/>
+
+&nbsp; <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black"/>
+
+</p>
+
+
+
+---
+
+
+
+\## 🚀 Featured Projects
+
+<div align="center">
+
+
+
+&nbsp; <a href="https://github.com/bione-dev/User-Management-API">
+
+&nbsp;   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2Z5eGJrNnI5Y2puOXBrbGp6eGt2YWh2M3h4Y3hxNnR3bHU3eTh2aSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/GyZc0a9YQ1K6g/giphy.gif" width="36" align="left"/>
+
+&nbsp; </a>
+
+&nbsp; <b>User Management API</b> — JWT, validações, OpenAPI, testes.  
+
+&nbsp; <sub>Java, Spring Boot</sub>
+
+
+
+&nbsp; <br/><br/>
+
+
+
+&nbsp; <a href="https://github.com/bione-dev/Lista-Tarefas">
+
+&nbsp;   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTQ0N2o2eG1yNGp2eGQxM2R1Y3JzZXZ5c2J2cjh6MGVqY3R0ajd0cyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o7btMCltyDvSgF92E/giphy.gif" width="36" align="left"/>
+
+&nbsp; </a>
+
+&nbsp; <b>Lista de Tarefas</b> — CRUD com validações e persistência.  
+
+&nbsp; <sub>Java, Spring Boot</sub>
+
+
+
+&nbsp; <br/><br/>
+
+
+
+&nbsp; <a href="https://github.com/bione-dev/TimeZoneConverter">
+
+&nbsp;   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGFnOHcybHpjNTM2b2w3b3B6eG9qN3E1Z3g2ZzR5MHV0cWVtM2JzNiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0Iyk2vQh0KX3G8kY/giphy.gif" width="36" align="left"/>
+
+&nbsp; </a>
+
+&nbsp; <b>TimeZone Converter</b> — manipulação correta de datas/fusos.  
+
+&nbsp; <sub>Java</sub>
+
+
+
+</div>
+
+
+
+---
+
+
+
+\## 📊 GitHub Stats
+
+<p align="center">
+
+&nbsp; <img height="170" src="https://github-readme-stats.vercel.app/api?username=bione-dev\&show\_icons=true\&theme=tokyonight\&count\_private=true"/>
+
+&nbsp; <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bione-dev\&layout=compact\&theme=tokyonight"/>
+
+</p>
+
+
+
+---
+
+
+
+\## 🤝 Let’s Connect
+
+<p align="center">
+
+&nbsp; <a href="https://www.linkedin.com/in/gustavo-bione-539ba1174"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white"/></a>
+
+&nbsp; <a href="mailto:gustavobione.dev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white"/></a>
+
+</p>
+
+
+
+<p align="center">
+
+&nbsp; <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="200" alt="typing"/>
+
+</p>
+
+
+
+<p align="center">
+
+&nbsp; <img src="https://komarev.com/ghpvc/?username=bione-dev\&color=7C3AED\&style=flat-square" alt="Profile views"/>
+
+</p>
+
+
+

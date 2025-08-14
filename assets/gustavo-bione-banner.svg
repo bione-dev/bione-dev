@@ -1,0 +1,81 @@
+<svg width="1600" height="420" viewBox="0 0 1600 420" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1600" y2="420" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0F172A"/>
+      <stop offset="1" stop-color="#111827"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#22D3EE"/>
+      <stop offset="1" stop-color="#7C3AED"/>
+    </linearGradient>
+    <linearGradient id="accent2" x1="0" y1="1" x2="1" y2="0">
+      <stop stop-color="#10B981"/>
+      <stop offset="1" stop-color="#60A5FA"/>
+    </linearGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="12" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <style>
+      @keyframes float1 {
+        0% { transform: translateY(0px); opacity: 0.7; }
+        50% { transform: translateY(-12px); opacity: 1; }
+        100% { transform: translateY(0px); opacity: 0.7; }
+      }
+      @keyframes float2 {
+        0% { transform: translateY(0px) rotate(0deg); }
+        50% { transform: translateY(10px) rotate(2deg); }
+        100% { transform: translateY(0px) rotate(0deg); }
+      }
+      .floating-1 { animation: float1 6s ease-in-out infinite; }
+      .floating-2 { animation: float2 7s ease-in-out infinite; }
+      .title { font: 700 64px ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Inter, Arial; fill: url(#accent); }
+      .tag   { font: 500 26px ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Inter, Arial; fill: #E5E7EB; opacity: .9; }
+      .chip  { font: 600 18px ui-sans-serif, system-ui, Segoe UI, Inter, Arial; fill: #0B1220; }
+    </style>
+  </defs>
+
+  <!-- background -->
+  <rect width="1600" height="420" fill="url(#bg)"/>
+
+  <!-- decorative gradient blobs -->
+  <circle cx="300" cy="90" r="130" fill="url(#accent)" opacity="0.35" filter="url(#glow)" class="floating-1"/>
+  <circle cx="1450" cy="320" r="160" fill="url(#accent2)" opacity="0.35" filter="url(#glow)" class="floating-2"/>
+
+  <!-- subtle grid -->
+  <g opacity="0.07">
+    <rect x="0" y="0" width="1" height="420" fill="#9CA3AF"/><rect x="40" y="0" width="1" height="420" fill="#9CA3AF"/><rect x="80" y="0" width="1" height="420" fill="#9CA3AF"/><rect x="120" y="0" width="1" height="420" fill="#9CA3AF"/><rect x="160" y="0" width="1" height="420" fill="#9CA3AF"/><rect x="200" y="0" width="1" height="420" fill="#9CA3AF"/><rect x="240" y="0" width="1" height="420" fill="#9CA3AF"/><rect x="280" y="0" width="1" height="420" fill="#9CA3AF"/><rect x="320" y="0" width="1" height="420" fill="#9CA3AF"/><rect x="360" y="0" width="1" height="420" fill="#9CA3AF"/><rect x="400" y="0" width="1" height="420" fill="#9CA3AF"/><rect x="440" y="0" width="1" height="420" fill="#9CA3AF"/><rect x="480" y="0" width="1" height="420" fill="#9CA3AF"/><rect x="520" y="0" width="1" height="420" fill="#9CA3AF"/><rect x="560" y="0" width="1" height="420" fill="#9CA3AF"/><rect x="600" y="0" width="1" height="420" fill="#9CA3AF"/><rect x="640" y="0" width="1" height="420" fill="#9CA3AF"/><rect x="680" y="0" width="1" height="420" fill="#9CA3AF"/><rect x="720" y="0" width="1" height="420" fill="#9CA3AF"/><rect x="760" y="0" width="1" height="420" fill="#9CA3AF"/><rect x="800" y="0" width="1" height="420" fill="#9CA3AF"/><rect x="840" y="0" width="1" height="420" fill="#9CA3AF"/><rect x="880" y="0" width="1" height="420" fill="#9CA3AF"/><rect x="920" y="0" width="1" height="420" fill="#9CA3AF"/><rect x="960" y="0" width="1" height="420" fill="#9CA3AF"/><rect x="1000" y="0" width="1" height="420" fill="#9CA3AF"/><rect x="1040" y="0" width="1" height="420" fill="#9CA3AF"/><rect x="1080" y="0" width="1" height="420" fill="#9CA3AF"/><rect x="1120" y="0" width="1" height="420" fill="#9CA3AF"/><rect x="1160" y="0" width="1" height="420" fill="#9CA3AF"/><rect x="1200" y="0" width="1" height="420" fill="#9CA3AF"/><rect x="1240" y="0" width="1" height="420" fill="#9CA3AF"/><rect x="1280" y="0" width="1" height="420" fill="#9CA3AF"/><rect x="1320" y="0" width="1" height="420" fill="#9CA3AF"/><rect x="1360" y="0" width="1" height="420" fill="#9CA3AF"/><rect x="1400" y="0" width="1" height="420" fill="#9CA3AF"/><rect x="1440" y="0" width="1" height="420" fill="#9CA3AF"/><rect x="1480" y="0" width="1" height="420" fill="#9CA3AF"/><rect x="1520" y="0" width="1" height="420" fill="#9CA3AF"/><rect x="1560" y="0" width="1" height="420" fill="#9CA3AF"/><rect x="1600" y="0" width="1" height="420" fill="#9CA3AF"/>
+    <rect x="0" y="0" width="1600" height="1" fill="#9CA3AF"/><rect x="0" y="40" width="1600" height="1" fill="#9CA3AF"/><rect x="0" y="80" width="1600" height="1" fill="#9CA3AF"/><rect x="0" y="120" width="1600" height="1" fill="#9CA3AF"/><rect x="0" y="160" width="1600" height="1" fill="#9CA3AF"/><rect x="0" y="200" width="1600" height="1" fill="#9CA3AF"/><rect x="0" y="240" width="1600" height="1" fill="#9CA3AF"/><rect x="0" y="280" width="1600" height="1" fill="#9CA3AF"/><rect x="0" y="320" width="1600" height="1" fill="#9CA3AF"/><rect x="0" y="360" width="1600" height="1" fill="#9CA3AF"/><rect x="0" y="400" width="1600" height="1" fill="#9CA3AF"/>
+  </g>
+
+  <!-- left code icon card -->
+  <g transform="translate(80,120)" class="floating-2">
+    <rect x="0" y="0" width="280" height="180" rx="18" fill="#0B1220" stroke="url(#accent)" stroke-width="1.5" opacity="0.9"/>
+    <g transform="translate(24,32)">
+      <path d="M40 60 L70 30 M70 90 L40 60" stroke="#60A5FA" stroke-width="6" stroke-linecap="round" fill="none"/>
+      <path d="M120 30 L150 60 L120 90" stroke="#22D3EE" stroke-width="6" stroke-linecap="round" fill="none"/>
+    </g>
+  </g>
+
+  <!-- main text -->
+  <text x="400" y="200" class="title">Gustavo Bione</text>
+  <text x="400" y="245" class="tag">Full Stack Developer · Java · Spring Boot · Quarkus · Angular/TypeScript · AWS · Docker</text>
+
+  <!-- skill chips -->
+  <g transform="translate(400,280)">
+    <rect x="0" y="-28" width="150" height="40" rx="20" fill="url(#accent)" opacity="0.18"/>
+    <text x="20" y="0" class="chip">Java / Spring</text>
+
+    <rect x="170" y="-28" width="175" height="40" rx="20" fill="url(#accent2)" opacity="0.18"/>
+    <text x="190" y="0" class="chip">Quarkus / JPA</text>
+
+    <rect x="365" y="-28" width="210" height="40" rx="20" fill="url(#accent)" opacity="0.18"/>
+    <text x="385" y="0" class="chip">Angular / TypeScript</text>
+
+    <rect x="595" y="-28" width="170" height="40" rx="20" fill="url(#accent2)" opacity="0.18"/>
+    <text x="615" y="0" class="chip">AWS / Docker</text>
+  </g>
+</svg>
