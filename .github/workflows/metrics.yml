@@ -1,0 +1,41 @@
+name: GitHub Metrics
+
+on:
+  schedule:
+    - cron: "0 3 * * *"   # todo dia 03:00 UTC
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout (não precisa do repo, apenas salva o output)
+        uses: actions/checkout@v4
+
+      - name: Generate metrics
+        uses: lowlighter/metrics@latest
+        with:
+          filename: assets/metrics.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          user: bione-dev
+          template: classic
+          base: header, activity, community, repositories, metadata
+          config_timezone: America/Sao_Paulo
+          # Plugins bacanas (todos funcionam com GITHUB_TOKEN):
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+          plugin_languages: yes
+          plugin_languages_ignored: >-
+            html, css
+          plugin_languages_details: percentage
+          plugin_topics: yes
+          plugin_topics_mode: mastered
+          plugin_followup: yes
+
+      - name: Commit metrics
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/metrics.svg
+          git commit -m "chore(metrics): update metrics.svg" || echo "No changes"
+          git push
