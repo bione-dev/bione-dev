@@ -8,13 +8,18 @@ on:
 permissions:
   contents: write
 
+# evita duas execuções brigando entre si
+concurrency:
+  group: metrics
+  cancel-in-progress: true
+
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
 
-      - name: Generate metrics (stable, light)
+      - name: Generate metrics (stable)
         uses: lowlighter/metrics@v3.34
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
@@ -23,29 +28,30 @@ jobs:
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: America/Sao_Paulo
-          config_animations: no                   # menos carga
+          config_animations: no
           repositories_affiliations: owner,collaborator
           repositories_forks: yes
-
-          # Calendário (leve)
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
-
-          # Linguagens (leve - SEM indepth)
           plugin_languages: yes
           plugin_languages_limit: 6
-          plugin_languages_indepth: no            # <- causa OOM; desligado
+          plugin_languages_indepth: no
           plugin_languages_details: percentage
           plugin_languages_ignored: html, css, scss
-
-          # (opcional) conquistas compactas – barato
           plugin_achievements: yes
           plugin_achievements_display: compact
 
-      - name: Commit metrics
+      - name: Commit metrics (with rebase)
         run: |
+          set -e
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add assets/metrics.svg
-          git commit -m "chore(metrics): update metrics.svg" || echo "No changes"
-          git push
+          # só commita se houver mudanças
+          if ! git diff --staged --quiet; then
+            git commit -m "chore(metrics): update metrics.svg"
+          fi
+          # atualiza histórico local e depois empurra
+          git fetch origin
+          git pull --rebase origin main || true
+          git push origin HEAD:main
