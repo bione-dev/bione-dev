@@ -3,7 +3,7 @@
   <img src="./assets/gustavo-bione-banner.svg" alt="Gustavo Bione — Full Stack Developer" />
 </p>
 
-<!-- Divisor animado -->
+<!-- Animated divider -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=wave&color=0:22D3EE,100:7C3AED&height=90&section=header&reversal=true&fontColor=ffffff&descAlign=50" />
 </p>
@@ -13,7 +13,7 @@
   <b>Full Stack Developer</b> — Java · Spring Boot · Quarkus · Angular/TypeScript · AWS · Docker
 </p>
 
-<!-- Skills em ícones, visual clean -->
+<!-- Skills -->
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,quarkus,angular,ts,js,postgres,mongodb,aws,docker,git&theme=dark&perline=11"/>
 </p>
@@ -36,38 +36,42 @@
   <tr>
     <td colspan="3" align="center">
       <img src="./assets/metrics.svg" alt="GitHub metrics dashboard (auto)" />
-      <br/><sub>Atualizado diariamente via GitHub Actions.</sub>
+      <br/><sub>📌 Updated daily via GitHub Actions</sub>
     </td>
   </tr>
 </table>
 
 ---
 
-## 🚀 Featured Projects
-<div align="center">
-  <a href="https://github.com/bione-dev/User-Management-API">
-    <img src="https://img.shields.io/badge/User%20Management%20API-0f172a?style=for-the-badge&logo=github&labelColor=111827"/>
-  </a>
-  <a href="https://github.com/bione-dev/Lista-Tarefas">
-    <img src="https://img.shields.io/badge/Lista%20de%20Tarefas-0f172a?style=for-the-badge&logo=github&labelColor=111827"/>
-  </a>
-  <a href="https://github.com/bione-dev/TimeZoneConverter">
-    <img src="https://img.shields.io/badge/TimeZone%20Converter-0f172a?style=for-the-badge&logo=github&labelColor=111827"/>
-  </a>
-</div>
+## 💡 About Me
 
-<details>
-  <summary><b>About me</b> (abrir)</summary>
+I'm a junior full stack developer passionate about building **practical and functional applications**.  
+I enjoy learning new technologies, improving my coding skills, and following good development practices.
 
-- Full Stack focado em apps **seguras, rápidas e observáveis**  
-- Curto **arquitetura limpa**, testes e CI/CD  
-- Estudando **Go** e **Terraform** (plataforma/DevOps)  
-- ☕ café + código
-</details>
+- 🚀 **Experience with:** Java, Spring Boot, Quarkus, and basic distributed systems  
+- 🛠️ **Familiar with:** AWS, Docker, CI/CD concepts  
+- 📊 **Interested in:** Observability, testing, and clean code  
+- 🌱 **Currently learning:** AWS ☁️ and Security 🔐 to strengthen my skills in cloud computing and application protection  
+- ☕ Coffee lover and always curious about how things work
+ <p>
+  <img src="https://img.shields.io/badge/Experience%20with-Java%20|%20Spring%20Boot%20|%20Quarkus-blue?style=for-the-badge" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Familiar%20with-AWS%20|%20Docker%20|%20CI%2FCD-orange?style=for-the-badge" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Interested%20in-Observability%20|%20Testing%20|%20Clean%20Code-green?style=for-the-badge" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Currently%20Learning-AWS%20☁️%20|%20Security%20🔐-purple?style=for-the-badge" />
+</p>
 
----
+<!-- Section divider image -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:22D3EE&height=80&section=footer"/>
+</p>
 
-## 📫 Connect
+## 📫 Connect with me
 <p align="center">
   <a href="https://www.linkedin.com/in/gustavo-bione-539ba1174"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:gustavobione.dev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -76,3 +80,9 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=bione-dev&color=7C3AED&style=flat-square" alt="Profile views"/>
 </p>
+
+<!-- Animated divider -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:22D3EE,100:7C3AED&height=90&section=header&reversal=true&fontColor=ffffff&descAlign=50" />
+</p>
+
