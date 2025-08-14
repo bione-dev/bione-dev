@@ -101,9 +101,3 @@ I enjoy learning new technologies, improving my coding skills, and following goo
     <path d="M0,0 L100,0 L100,100 L0,70 Z" fill="url(#grad1)" />
   </svg>
 </p>
-
-
-<!-- tiny signature -->
-<p align="center">
-  <sub>Feito com Java ☕ + Quarkus ⚡ · Aberto a colaborações</sub>
-</p>
