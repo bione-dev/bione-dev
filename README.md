@@ -98,5 +98,4 @@ Prova de autonomia total: ideia → produto → software → publicação.
 <p align="left">
 <a href="https://www.linkedin.com/in/gustavo-bione-539ba1174" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:gustavobione.dev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://www.instagram.com/coalaemcoala" target="_blank"><img src="https://img.shields.io/badge/Coala_em_Coala-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
 </p>
