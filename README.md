@@ -100,5 +100,3 @@ Prova de autonomia total: ideia → produto → software → publicação.
 <a href="mailto:gustavobione.dev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 <a href="https://www.instagram.com/coalaemcoala" target="_blank"><img src="https://img.shields.io/badge/Coala_em_Coala-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
 </p>
-
-<p align="center"><i>Sempre construindo — no código e na impressora. 🐨🖨️</i></p>
