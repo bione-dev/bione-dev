@@ -1,104 +1,82 @@
-<!-- Banner -->
-<p align="center">
-  <img src="./assets/gustavo-bione-banner.svg" alt="Gustavo Bione — Full Stack Developer" />
-</p>
-
-<!-- Animated divider -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:22D3EE,100:7C3AED&height=90&section=header&reversal=true&fontColor=ffffff&descAlign=50" />
-</p>
+<h1 align="center">Olá, eu sou o Gustavo Bione 👋</h1>
+<h3 align="center">Desenvolvedor Full Stack · Fintech & Banking · João Pessoa, PB 🇧🇷</h3>
 
 <p align="center">
-  <b>Full Stack Developer</b> — Java · Spring Boot · Quarkus · Angular/TypeScript · AWS · Docker
-</p>
-
-<!-- Skills -->
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,quarkus,angular,ts,js,postgres,mongodb,aws,docker,git&theme=dark&perline=11"/>
+Backend, Web e Mobile. Entrei no mundo bancário como <b>Dev Backend</b> e hoje atuo <b>ponta a ponta</b> — do microserviço ao app.
 </p>
 
 ---
 
-## 🔥 Dashboard
-<table align="center">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=bione-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Stats"/>
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bione-dev&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs"/>
-    </td>
-    <td>
-      <img src="https://streak-stats.demolab.com?user=bione-dev&theme=tokyonight&hide_border=true" alt="Streak"/>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="3" align="center">
-      <img src="./assets/metrics.svg" alt="GitHub metrics dashboard (auto)" />
-      <br/><sub>📌 Updated daily via GitHub Actions</sub>
-    </td>
-  </tr>
-</table>
+## 🚀 Sobre mim
 
----
+Desenvolvedor Full Stack com foco em infraestrutura financeira brasileira (Pix, Open Finance, BaaS). Trabalho diariamente com sistemas de banking em produção — Internet Banking, App e Backoffice — cuidando desde o microserviço no backend até a tela do usuário.
 
-## 💡 About Me
+Fora do trabalho, sou maker: toco meu próprio negócio de impressão 3D e construo as ferramentas dele do zero. Gosto de resolver problema de verdade e entregar coisa que funciona.
 
-I'm a junior full stack developer passionate about building **practical and functional applications**.  
-I enjoy learning new technologies, improving my coding skills, and following good development practices.
+## 💼 O que venho construindo
 
-- 🚀 **Experience with:** Java, Spring Boot, Quarkus, and basic distributed systems  
-- 🛠️ **Familiar with:** AWS, Docker, CI/CD concepts  
-- 📊 **Interested in:** Observability, testing, and clean code  
-- 🌱 **Currently learning:** AWS ☁️ and Security 🔐 to strengthen my skills in cloud computing and application protection  
-- ☕ Coffee lover and always curious about how things work
+Mais de 800 entregas em produção ao longo de dois grandes projetos de banking, cobrindo backend, web e mobile.
 
-<p>
-  <img src="https://img.shields.io/badge/Experience%20with-Java%20|%20Spring%20Boot%20|%20Quarkus-blue?style=for-the-badge" />
-</p>
-<p>
-  <img src="https://img.shields.io/badge/Familiar%20with-AWS%20|%20Docker%20|%20CI%2FCD-orange?style=for-the-badge" />
-</p>
-<p>
-  <img src="https://img.shields.io/badge/Interested%20in-Observability%20|%20Testing%20|%20Clean%20Code-green?style=for-the-badge" />
-</p>
-<p>
-  <img src="https://img.shields.io/badge/Currently%20Learning-AWS%20☁️%20|%20Security%20🔐-purple?style=for-the-badge" />
-</p>
+### 🏦 Opah Banking — plataforma BaaS (2025)
 
-<!-- Section divider image -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:22D3EE&height=80&section=footer"/>
-</p>
+- Microserviços em Java / Quarkus para backends PF e PJ, Backoffice, Internet Banking e App.
+- Concentração majoritária em backend, com contribuição também nas camadas web e mobile.
+- Documentação técnica de handover de toda a plataforma na transição da parceria — incluindo modelagem de banco (MongoDB) e cobertura do app mobile.
 
-## 🤝 Connect with me
+### 💳 PayCash — produto full-stack (2026)
 
-<p align="center">
+Atuação ponta a ponta em 4 repositórios (backend · internet banking · backoffice · app):
 
-  <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/gustavo-bione-539ba1174" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <!-- Email -->
-  <a href="mailto:gustavobione.dev@gmail.com" target="_blank">
-    <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-</p>
+- 🔁 **Contestação Pix (MED 2.0)** — implementação do Mecanismo Especial de Devolução para compliance regulatório.
+- 🧾 **Unificação de comprovantes + agregador** — reformulação completa do domínio de comprovantes (Pix, TED, Boleto): status, mascaramento de dados sensíveis, endpoint agregador com paginação, download em PDF/JPEG e envio por e-mail em HTML.
+- 🪪 **Prova de Vida (AWS Liveness)** — biometria facial no login e no cadastro/migração de dispositivo.
+- 💰 **Raspa Conta** — transferência automática de saldo entre contas de mesma titularidade, com fluxo no Internet Banking e gestão no Backoffice.
+- 🐛 **Transferência Inteligente** — investigação e correção de bug em produção.
+- 📊 **Observabilidade** — análise de logs com Grafana Loki para debug de endpoints de Pix em produção.
+- 🌿 Rotina forte de Git — cherry-pick, rebase, resolução de conflitos e Conventional Commits.
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=bione-dev&color=7C3AED&style=flat-square" alt="Profile views"/>
-</p>
+Progressão: entrei como Dev Backend → hoje Full Stack (backend · web · app).
 
-<!-- gradient footer -->
-<p align="center">
-  <svg width="100%" height="100" viewBox="0 0 100 100" preserveAspectRatio="none">
-    <defs>
-      <linearGradient id="grad1" x1="0%" y1="0%" x2="100%" y2="0%">
-        <stop offset="0%" style="stop-color:#7C3AED;stop-opacity:1" />
-        <stop offset="100%" style="stop-color:#22D3EE;stop-opacity:1" />
-      </linearGradient>
-    </defs>
-    <path d="M0,0 L100,0 L100,100 L0,70 Z" fill="url(#grad1)" />
-  </svg>
+## 🖨️ Projeto pessoal — Coala em Coala
+
+Meu negócio autoral de impressão 3D (chaveiros, toppers, figures e placas personalizadas), rodando numa Bambu Lab A1 + AMS.
+
+Além de imprimir, eu construí a ferramenta:
+
+- App de gestão completo (catálogo + painel admin) em Node.js puro, zero dependências.
+- Domínio próprio publicado no Railway (via Hostinger).
+- Branding, catálogo e automações de marketing feitos do zero.
+
+Prova de autonomia total: ideia → produto → software → publicação.
+
+## 🛠️ Stack & Tecnologias
+
+**Linguagens**
+
+<p><img src="https://skillicons.dev/icons?i=java,ts,js,python&theme=dark" /></p>
+
+**Back-end & Mobile**
+
+<p><img src="https://skillicons.dev/icons?i=spring,quarkus,angular,nodejs&theme=dark" /></p>
+
+**Cloud, Dados & Observabilidade**
+
+<p><img src="https://skillicons.dev/icons?i=aws,docker,mongodb,postgres,grafana,git&theme=dark" /></p>
+
+**Domínio:** Pix · Open Finance · BaaS · Microserviços · OAuth2 M2M · MED 2.0
+
+## 🎓 Formação & Certificações
+
+- 🎓 Análise e Desenvolvimento de Sistemas — Unipê (2023 – 2025)
+- ☁️ AWS re/Start — Escola da Nuvem
+- 💻 Oracle Next Education (ONE) — Alura / Oracle
+
+## 📫 Onde me encontrar
+
+<p align="left">
+<a href="https://www.linkedin.com/in/gustavo-bione-539ba1174" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:gustavobione.dev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://www.instagram.com/coalaemcoala" target="_blank"><img src="https://img.shields.io/badge/Coala_em_Coala-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
 </p>
 
+<p align="center"><i>Sempre construindo — no código e na impressora. 🐨🖨️</i></p>
