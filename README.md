@@ -37,11 +37,11 @@ Atuação ponta a ponta em 4 repositórios (backend · internet banking · backo
 
 Progressão: entrei como Dev Backend → hoje Full Stack (backend · web · app).
 
-### 🩺 Alento (ex-LembraBem) — SaaS solo, ponta a ponta (2026)
+### 🩺 Alento  — SaaS, ponta a ponta (2026)
 
 Produto próprio construído sozinho, do zero: da validação de ideia até app publicado — para famílias que cuidam de idosos com demência.
 
-- 🏗️ **Full-stack solo** — Next.js + Prisma + PostgreSQL, deploy contínuo no Railway, scheduler próprio (node-cron) para lembretes automáticos.
+- 🏗️ **Full-stack** — Next.js + Prisma + PostgreSQL, deploy contínuo no Railway, scheduler próprio (node-cron) para lembretes automáticos.
 - 📱 **App nativo Android e iOS** — casca Capacitor sobre o servidor Next, build assinado (keystore própria), distribuído via Firebase App Distribution (Android) e preparado para TestFlight (iOS).
 - 🖥️ **Modo Idoso** — tela acessível por link/token sem login, pensada para tablet: fonte ajustável, orientação temporal, clima do dia, avisos de "sem internet", acessibilidade AAA.
 - 🎙️ **Recado de voz** — familiar grava áudio, idoso ouve e confirma no tablet, com atualização em tempo real (sem precisar dar refresh).
@@ -97,5 +97,5 @@ Prova de autonomia total: ideia → produto → software → publicação.
 
 <p align="left">
 <a href="https://www.linkedin.com/in/gustavo-bione-539ba1174" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:gustavobione.dev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="mailto:bione.dev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
