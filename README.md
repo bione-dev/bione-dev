@@ -37,6 +37,24 @@ Atuação ponta a ponta em 4 repositórios (backend · internet banking · backo
 
 Progressão: entrei como Dev Backend → hoje Full Stack (backend · web · app).
 
+### 🩺 Alento (ex-LembraBem) — SaaS solo, ponta a ponta (2026)
+
+Produto próprio construído sozinho, do zero: da validação de ideia até app publicado — para famílias que cuidam de idosos com demência.
+
+- 🏗️ **Full-stack solo** — Next.js + Prisma + PostgreSQL, deploy contínuo no Railway, scheduler próprio (node-cron) para lembretes automáticos.
+- 📱 **App nativo Android e iOS** — casca Capacitor sobre o servidor Next, build assinado (keystore própria), distribuído via Firebase App Distribution (Android) e preparado para TestFlight (iOS).
+- 🖥️ **Modo Idoso** — tela acessível por link/token sem login, pensada para tablet: fonte ajustável, orientação temporal, clima do dia, avisos de "sem internet", acessibilidade AAA.
+- 🎙️ **Recado de voz** — familiar grava áudio, idoso ouve e confirma no tablet, com atualização em tempo real (sem precisar dar refresh).
+- 💊 **Cuidado de saúde** — remédio com dose/alarme, ficha de saúde e relatório médico (PDF), estoque de remédio com aviso automático, diário com foto, resumo semanal com histórico de tendência.
+- 👨‍👩‍👧 **Rede de apoio** — escala de plantão entre familiares, múltiplas famílias por cuidador, cadastro de pessoas (médicos, contatos) integrado a compromissos e aniversários.
+- 🆘 **Segurança sem alarme falso** — botão de emergência que liga para o contato real (nunca finge que a ligação foi atendida), avisos de contato de emergência ausente e "tablet parado".
+- 📨 **Comunicação** — WhatsApp (fila simulada + provider plugável para API real), SMS via Comtele (OTP, lembretes reais), e-mails transacionais.
+- ⚖️ **LGPD** — análise RIPD própria (dado sensível de saúde + idosos = alto risco), consentimento destacado no cadastro, exclusão de conta multi-família, Política de Privacidade.
+- 🎨 **Rebranding completo** — LembraBem → Alento: identidade visual própria (paleta "Casa": café-espresso/linho/canela/oliva), design system, logo, aplicado em painel, telas públicas e Modo Idoso.
+- ✅ **Qualidade** — suite de testes (Vitest), auditoria de acessibilidade, mais de 80 commits de features/correções ao longo do projeto.
+
+Prova de autonomia em produto real de saúde/cuidado: da pesquisa de validação ao app nas mãos de testadores reais.
+
 ## 🖨️ Projeto pessoal — Coala em Coala
 
 Meu negócio autoral de impressão 3D (chaveiros, toppers, figures e placas personalizadas), rodando numa Bambu Lab A1 + AMS.
